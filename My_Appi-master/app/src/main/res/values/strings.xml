@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My_Appi</string>
+    <string name="create">Create</string>
+    <string name="get">Get</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="body">Body</string>
+    <string name="id">Id</string>
+    <string name="userid">User Id</string>
+    <string name="title">Title</string>
+</resources>
